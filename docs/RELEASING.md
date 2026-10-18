@@ -23,6 +23,15 @@ There are two release units, versioned independently from the same release PR:
 
 Commits touching `packages/opencard-export` count toward the CLI version only; everything else counts toward the catalog.
 
+The root release config deliberately sets `package-name` to an empty string.
+In release-please 17.6.0, disabling component tags alone still infers the branch
+component from `package.json` (`opencard-db`). A catalog-only manifest PR has no
+branch component, so that inferred name causes release creation to be skipped.
+The empty config name keeps both components empty without changing the actual
+npm package name. `tests/release/release.test.mjs` exercises the pinned action's
+release-please version against catalog-only, CLI-only and combined PRs. Update
+that exact dev dependency when changing the action's bundled library version.
+
 ## Version bumps
 
 Standard release-please semantics:
@@ -45,6 +54,6 @@ Two pieces need human setup once. Both are optional to start; the workflow degra
 
 - Branch protection dismisses stale approvals, and the release PR is force-updated on every merge to `main`. Approve and merge it in one sitting; an approval left overnight will be dismissed by the next card merge.
 - Do not push manual commits to the release PR branch. release-please recreates the branch from `main` on its next run and drops them (the exports refresh commit is re-added automatically; yours will not be).
-- The release PR is authored by whoever owns the PAT, and GitHub does not let an author approve their own PR. With a second maintainer this is a real review gate; a solo maintainer merges the release PR with their admin bypass.
+- The release PR is authored by whoever owns the PAT, and GitHub does not let an author approve their own PR. An independent maintainer must approve it before merge; required approval must not be bypassed.
 - Emergency manual path if the automation is down: run `npm run build:exports`, **commit the result to `main` first** (quick PR or admin push), tag that commit, then `gh release create vX.Y.Z exports/*.json exports/cards.csv exports/cards.yaml --generate-notes`. The exports must be in the tagged commit or the jsDelivr tag pin serves stale data; Release assets alone do not fix that. Afterwards set the new version in `.release-please-manifest.json` and `package.json` so the next automated release PR starts from the right baseline.
 - Bump behavior, changelog sections, and the PR text live in `release-please-config.json`. Current versions live in `.release-please-manifest.json`.
