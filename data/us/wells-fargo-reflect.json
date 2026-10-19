@@ -9,7 +9,7 @@
   "issuer": "Wells Fargo",
   "issuer_id": "wells-fargo",
   "network": "visa",
-  "network_tier": "signature",
+  "network_tier": "traditional",
   "type": "credit",
   "status": "active",
   "annual_fee": {
@@ -104,8 +104,9 @@
   "sources": [
     "https://creditcards.wellsfargo.com/reflect-visa-credit-card/",
     "https://creditcards.wellsfargo.com/reflect-visa-credit-card/?sub_channel=WEB&vendor_code=WF",
-    "https://www.wellsfargo.com/credit-cards/reflect-visa/terms/?sub_channel=WEB&vendor_code=WF&lp_cx_nm=RVAA00003_CSMPD_RV&FPID=013000IGF80000&product_code=CC&subproduct_code=VV&cx_nm=RVAA00003_CSMPD_RV"
+    "https://www.wellsfargo.com/credit-cards/reflect-visa/terms/?sub_channel=WEB&vendor_code=WF&lp_cx_nm=RVAA00003_CSMPD_RV&FPID=013000IGF80000&product_code=CC&subproduct_code=VV&cx_nm=RVAA00003_CSMPD_RV",
+    "https://www.visa.com/en-us/card-finder/credit-card/traditional"
   ],
-  "notes": "Product page and Important Credit Terms checked 2026-10-18: 17.74%, 24.24% or 28.49% variable purchase APR after the 21-month 0% introductory period, no annual fee and 3% foreign currency conversion fee. Image URL is the Reflect card art referenced by the official product page; artwork remains Wells Fargo copyright. Existing network_tier is unchanged; these pages do not identify a Visa tier.",
+  "notes": "Product page and Important Credit Terms checked 2026-10-18: 17.74%, 24.24% or 28.49% variable purchase APR after the 21-month 0% introductory period, no annual fee and 3% foreign currency conversion fee. Image URL is the Reflect card art referenced by the official product page; artwork remains Wells Fargo copyright. Visa's official card finder lists Reflect under Visa Traditional and identifies its benefitLevel as Traditional.",
   "segment": "personal"
 }
