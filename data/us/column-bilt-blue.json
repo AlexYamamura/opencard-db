@@ -129,7 +129,11 @@
     ]
   },
   "official_url": "https://www.bilt.com/card",
-  "image": null,
+  "image": {
+    "url": "https://img.bilt.com/43819/1790799681-bilt-tahoe.webp?w=140",
+    "attribution": "© Bilt Technologies, Inc.",
+    "local_path": null
+  },
   "bin_hints": [],
   "last_verified": "2026-07-25",
   "sources": [
@@ -137,5 +141,5 @@
     "https://legal.cardless.com/cardholder_agreement/bilt_blue/cardholder_agreement.pdf",
     "https://www.biltrewards.com/terms/blue-card-guide-to-benefits"
   ],
-  "notes": "Current Bilt Card 2.0 base card (Bilt Blue), verified 2026-07-25. The Blue Card Cardholder Agreement states the account is issued by Column N.A., serviced by Cardless, Inc.; this is the current generation replacing the legacy Wells Fargo Bilt Card (us-wells-fargo-bilt). The Blue Card Guide to Benefits brands it a 'Bilt Blue World Elite Mastercard'. Bilt Card 2.0 has three tiers, all no transaction fee on housing: Bilt Blue (no annual fee, this record), Bilt Obsidian ($95/year, +$100 annual Bilt Travel Hotel credit, 3X dining/grocery, up to 6X Bilt dining), and Bilt Palladium ($495/year, up to 5X Bilt dining, 4X Lyft, $200 annual Bilt Cash, $400 annual Bilt Travel Hotel credit, Priority Pass at 1,300+ airports). APR and foreign transaction fee were not stated on the fetched product page or cardholder agreement (honest nulls). No signup bonus advertised. Category rates reflect the headline earn shown on bilt.com/card and are inclusive of the Bilt loyalty membership plus the card multiplier."
+  "notes": "Current Bilt Card 2.0 base card (Bilt Blue), verified 2026-07-25. The Blue Card Cardholder Agreement states the account is issued by Column N.A., serviced by Cardless, Inc.; this is the current generation replacing the legacy Wells Fargo Bilt Card (us-wells-fargo-bilt). The Blue Card Guide to Benefits brands it a 'Bilt Blue World Elite Mastercard'. Bilt Card 2.0 has three tiers, all no transaction fee on housing: Bilt Blue (no annual fee, this record), Bilt Obsidian ($95/year, +$100 annual Bilt Travel Hotel credit, 3X dining/grocery, up to 6X Bilt dining), and Bilt Palladium ($495/year, up to 5X Bilt dining, 4X Lyft, $200 annual Bilt Cash, $400 annual Bilt Travel Hotel credit, Priority Pass at 1,300+ airports). APR and foreign transaction fee were not stated on the fetched product page or cardholder agreement (honest nulls). No signup bonus advertised. Category rates reflect the headline earn shown on bilt.com/card and are inclusive of the Bilt loyalty membership plus the card multiplier. Artwork verified 2026-10-20: The official Bilt comparison table directly labels this card artwork Bilt Blue Card, separately from Obsidian and Palladium. Image attribution follows the Bilt Technologies page copyright. The official image returned HTTP 200 and was visually inspected as the matching isolated card. Financial terms, lifecycle and offer dates were not reverified in this artwork-only update."
 }
