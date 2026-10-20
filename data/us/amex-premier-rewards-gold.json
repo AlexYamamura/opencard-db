@@ -9,7 +9,7 @@
   "network_tier": "none",
   "type": "credit",
   "segment": "personal",
-  "status": "discontinued",
+  "status": "unknown",
   "annual_fee": {
     "amount": null,
     "currency": "USD",
@@ -30,8 +30,5 @@
   "sources": [
     "https://www.americanexpress.com/us/credit-cards/features-benefits/calculator/premier-gold/"
   ],
-  "secondary_sources": [
-    "https://www.doctorofcredit.com/spreadsheet-current-recent-credit-card-signup-bonuses-major-issuers/"
-  ],
-  "notes": "Historical Premier Rewards Gold record. Official-source audit 2026-10-20: the retained issuer calculator URL returns a shell/title rather than a dated product-transition notice. The inherited discontinued status and historical financial terms remain unverified; exact withdrawal date, conversion and successor are unknown. An inaccessible press URL is not notice evidence."
+  "notes": "Historical Premier Rewards Gold record. Official-source evidence boundary: the retained issuer calculator URL returns a shell/title rather than a dated product-transition notice. The inherited historical financial terms remain unverified; exact withdrawal date, conversion and successor are unknown. An inaccessible press URL is not notice evidence. Historical discovery reference only, not official evidence: https://www.doctorofcredit.com/spreadsheet-current-recent-credit-card-signup-bonuses-major-issuers/."
 }
