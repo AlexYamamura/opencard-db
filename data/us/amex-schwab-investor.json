@@ -95,7 +95,7 @@
   },
   "official_url": "https://www.schwab.com/credit-cards",
   "image": {
-    "url": null,
+    "url": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/policies/images/schwab_cob_ch_240x152.png",
     "attribution": "© American Express",
     "local_path": null
   },
@@ -103,8 +103,9 @@
   "last_verified": "2026-07-24",
   "sources": [
     "https://www.americanexpress.com/us/credit-cards/card-application/apply/partner/print/personal-card/csb/charles-schwab-investor-credit-card/ep-ADAP?print=false",
-    "https://www.schwab.com/credit-cards"
+    "https://www.schwab.com/credit-cards",
+    "https://www.americanexpress.com/us/credit-cards/features-benefits/policies/car-rental-loss-and-damage-insurance-terms.html"
   ],
-  "notes": "Charles Schwab Investor Credit Card from American Express, issued by American Express National Bank. Schwab's co-brand product page identifies the Investor card separately from the Schwab Platinum card and requires an eligible Schwab account. The inherited Amex ep-ADAP application URL is retained as a historical reference, not a readable current offer. Purchase APR is corrected from the readable product page; other financial fields and last_verified remain the July 2026 snapshot, not a complete current verification. Current product-specific disclosures are still needed to reverify those terms. The linked InvestorCard.jpg returned an HTML authorization error rather than image bytes; image remains null and no artwork permission is inferred.",
+  "notes": "Charles Schwab Investor Credit Card from American Express, issued by American Express National Bank. Schwab's co-brand product page identifies the Investor card separately from the Schwab Platinum card and requires an eligible Schwab account. The inherited Amex ep-ADAP application URL is retained as a historical reference, not a readable current offer. Purchase APR is corrected from the readable product page; other financial fields and last_verified remain the July 2026 snapshot, not a complete current verification. Current product-specific disclosures are still needed to reverify those terms. The linked InvestorCard.jpg returned an HTML authorization error rather than image bytes; image remains null and no artwork permission is inferred. Artwork-only verification on 2026-10-20: the American Express car-rental insurance directory labels this exact co-brand and links the 240x152 issuer-hosted image used here. This low-resolution benefit-directory artwork does not establish current design availability, application status or a full financial-terms refresh. Copyright attribution identifies the issuer; it is not a separate permission grant.",
   "segment": "personal"
 }

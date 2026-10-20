@@ -204,7 +204,7 @@
   },
   "official_url": "https://www.schwab.com/credit-cards",
   "image": {
-    "url": null,
+    "url": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/Q32024-New-Card-Art/NEW_plat_metal_charles_schwab_di.jpg",
     "attribution": "© American Express",
     "local_path": null
   },
@@ -213,7 +213,8 @@
   "sources": [
     "https://www.americanexpress.com/us/credit-cards/card-application/apply/partner/print/personal-card/csb/charles-schwab-platinum-card/ep-IDAE?print=false",
     "https://clientcontent.schwabcdn.com/credit-cards/faq",
-    "https://www.schwab.com/credit-cards"
+    "https://www.schwab.com/credit-cards",
+    "https://www.americanexpress.com/us/credit-cards/features-benefits/policies/car-rental-loss-and-damage-insurance-terms.html"
   ],
-  "notes": "The Platinum Card from American Express Exclusively for Charles Schwab, issued by American Express National Bank. Schwab's co-brand product page identifies this card separately from the Investor card and requires an eligible Schwab account; it is an official product source in addition to the retained Amex disclosures and Schwab FAQ. Financial fields and last_verified remain the July 2026 snapshot, not a complete current verification. The inherited assertion about an elevated offer's expiry has not been independently established by this identity audit. Current product-specific disclosures are still needed to reverify all financial terms and artwork. network_tier is none for Amex."
+  "notes": "The Platinum Card from American Express Exclusively for Charles Schwab, issued by American Express National Bank. Schwab's co-brand product page identifies this card separately from the Investor card and requires an eligible Schwab account; it is an official product source in addition to the retained Amex disclosures and Schwab FAQ. Financial fields and last_verified remain the July 2026 snapshot, not a complete current verification. The inherited assertion about an elevated offer's expiry has not been independently established by this identity audit. Current product-specific disclosures are still needed to reverify all financial terms and artwork. network_tier is none for Amex. Artwork-only verification on 2026-10-20: the American Express car-rental insurance directory labels this exact co-brand and links the 240x152 issuer-hosted image used here. This low-resolution benefit-directory artwork does not establish current design availability, application status or a full financial-terms refresh. Copyright attribution identifies the issuer; it is not a separate permission grant."
 }
