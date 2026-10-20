@@ -90,8 +90,8 @@
   },
   "official_url": "https://web.archive.org/web/20170214231009/https://home.barclaycardus.com/cards/barclaycard-cashforward.html",
   "image": {
-    "url": null,
-    "attribution": null,
+    "url": "https://web.archive.org/web/20170930123759im_/https://home.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-angled/OCB_card_rRGB_CashForward_WM_Angled359x246_L.png",
+    "attribution": "© Barclays Bank Delaware",
     "local_path": null
   },
   "secondary_sources": [
@@ -102,5 +102,5 @@
   "sources": [
     "https://web.archive.org/web/20170214231009/https://home.barclaycardus.com/cards/barclaycard-cashforward.html"
   ],
-  "notes": "Historical CashForward World Mastercard record. Official-source audit 2026-10-20: the retained February 2017 issuer-page archive identifies the product but does not establish a 2017-11-30 withdrawal date. Remove that unsupported date and chronology. The inherited discontinued status and financial terms (1.5% cash rewards, 5% redemption bonus, $0 annual fee and 3% foreign transaction fee) remain historical metadata, not a current verification. Exact lifecycle, successor and old artwork are unknown."
+  "notes": "Historical CashForward World Mastercard record. Official-source audit 2026-10-20: the retained February 2017 issuer-page archive identifies the product but does not establish a precise withdrawal date. The inherited discontinued status and financial terms (1.5% cash rewards, 5% redemption bonus, $0 annual fee and 3% foreign transaction fee) remain historical metadata, not a current verification. Exact lifecycle and successor are unknown. Artwork checked 2026-10-20: the retained 2017-02-14 issuer-page archive identifies this historical product beside its card image. The linked image actually resolves to a 2017-09-30 archive capture; it is historical artwork, not evidence of current availability or successor identity."
 }

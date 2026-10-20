@@ -97,8 +97,8 @@
   },
   "official_url": "https://web.archive.org/web/20190119224625/https://cards.barclaycardus.com/banking/cards/barclaycard-arrival-plus-world-elite-mastercard/",
   "image": {
-    "url": null,
-    "attribution": null,
+    "url": "https://web.archive.org/web/20190118135018im_/https://cards.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-front/ArrivalPlusWE_NewMC_card_flat_230x157.png",
+    "attribution": "© Barclays Bank Delaware",
     "local_path": null
   },
   "secondary_sources": [
@@ -109,5 +109,5 @@
   "sources": [
     "https://web.archive.org/web/20190119224625/https://cards.barclaycardus.com/banking/cards/barclaycard-arrival-plus-world-elite-mastercard/"
   ],
-  "notes": "Historical Arrival Plus World Elite Mastercard record. Official-source audit 2026-10-20: the retained January 2019 issuer-page archive identifies the product but does not establish the precise 2019-01-01 withdrawal date or current legacy servicing. Remove that unsupported date and chronology. The inherited discontinued status and financial terms (2x miles, 5% redemption rebate, $89 annual fee waived first year, no foreign transaction fees) remain historical metadata, not a current verification. Exact withdrawal date, successor and current servicing are unknown."
+  "notes": "Historical Arrival Plus World Elite Mastercard record. Official-source audit 2026-10-20: the retained January 2019 issuer-page archive identifies the product but does not establish a precise withdrawal date or current legacy servicing. The inherited discontinued status and financial terms (2x miles, 5% redemption rebate, $89 annual fee waived first year, no foreign transaction fees) remain historical metadata, not a current verification. Exact withdrawal date, successor and current servicing are unknown. Artwork checked 2026-10-20: the retained 2019-01-19 issuer-page archive identifies this historical product beside its card image. The linked image actually resolves to a 2019-01-18 archive capture; it is historical artwork, not evidence of current availability or successor identity."
 }

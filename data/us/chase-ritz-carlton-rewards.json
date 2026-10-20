@@ -161,5 +161,10 @@
   "secondary_sources": [
     "https://www.doctorofcredit.com/spreadsheet-current-recent-credit-card-signup-bonuses-major-issuers/"
   ],
-  "notes": "Historical Ritz-Carlton Rewards record. Official-source audit 2026-10-20: the retained May 2016 issuer-page archive establishes historical product identity, not a precise 2018-07-26 application-withdrawal date. Remove that unsupported date and chronology. A loyalty-program consolidation does not establish credit-card withdrawal or conversion. The inherited discontinued status and historical financial terms remain unverified; current application eligibility, exact withdrawal date and successor are unknown."
+  "notes": "Historical Ritz-Carlton Rewards record. Official-source audit 2026-10-20: the retained May 2016 issuer-page archive establishes historical product identity, not a precise application-withdrawal date. A loyalty-program consolidation does not establish credit-card withdrawal or conversion. The inherited discontinued status and historical financial terms remain unverified; current application eligibility, exact withdrawal date and successor are unknown. Artwork checked 2026-10-20: the retained 2016-05-31 issuer-page archive identifies this historical product beside its card image. The linked image actually resolves to a 2016-08-06 archive capture; it is historical artwork, not evidence of current availability or successor identity.",
+  "image": {
+    "url": "https://web.archive.org/web/20160806012749im_/https://creditcards.chase.com/T110-039/1100119/images/card_art_main_home_030216.png",
+    "attribution": "© JPMorgan Chase & Co.",
+    "local_path": null
+  }
 }
