@@ -13,7 +13,6 @@
   "type": "credit",
   "segment": "personal",
   "status": "discontinued",
-  "discontinued_date": "2017-11-30",
   "annual_fee": {
     "amount": 0.0,
     "currency": "USD",
@@ -103,5 +102,5 @@
   "sources": [
     "https://web.archive.org/web/20170214231009/https://home.barclaycardus.com/cards/barclaycard-cashforward.html"
   ],
-  "notes": "Discontinued November 2017. 1.5% cashback with 5% redemption bonus when redeeming into a Barclays account. No annual fee, 3% foreign transaction fee. Verified from Wayback Machine snapshot of the official Barclays product page (Feb 2017)."
+  "notes": "Historical CashForward World Mastercard record. Official-source audit 2026-10-20: the retained February 2017 issuer-page archive identifies the product but does not establish a 2017-11-30 withdrawal date. Remove that unsupported date and chronology. The inherited discontinued status and financial terms (1.5% cash rewards, 5% redemption bonus, $0 annual fee and 3% foreign transaction fee) remain historical metadata, not a current verification. Exact lifecycle, successor and old artwork are unknown."
 }

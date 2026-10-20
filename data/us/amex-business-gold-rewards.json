@@ -10,7 +10,6 @@
   "type": "credit",
   "segment": "business",
   "status": "discontinued",
-  "replaced_by": "us-amex-business-gold",
   "annual_fee": {
     "amount": null,
     "currency": "USD",
@@ -34,5 +33,5 @@
   "secondary_sources": [
     "https://www.doctorofcredit.com/spreadsheet-current-recent-credit-card-signup-bonuses-major-issuers/"
   ],
-  "notes": "Old name for Business Gold Card. Product refreshed multiple times."
+  "notes": "Historical Business Gold Rewards record. Official-source audit 2026-10-20: the retained issuer terms URL returns 404; no readable official historical notice established the old-name conversion or successor. Remove the unsupported Business Gold successor link and naming chronology. The inherited discontinued status and historical financial terms remain unverified; exact lifecycle and successor are unknown. Neither 404 nor current Business Gold terms prove a historical transition."
 }

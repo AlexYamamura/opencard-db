@@ -13,7 +13,6 @@
   "type": "credit",
   "segment": "personal",
   "status": "discontinued",
-  "discontinued_date": "2021-03-10",
   "annual_fee": {
     "amount": 0.0,
     "currency": "USD",
@@ -123,5 +122,5 @@
   "sources": [
     "https://web.archive.org/web/20210227185747/https://cards.barclaycardus.com/banking/cards/diamond-resorts-international-mastercard/"
   ],
-  "notes": "Discontinued after Diamond Resorts acquired by Hilton Grand Vacations. The card was a World Mastercard (not Visa as sometimes reported). Earned 2x Diamond Plus Points on Diamond Resorts purchases, 1x elsewhere. $0 annual fee, 3% foreign transaction fee. Verified from Wayback Machine snapshot of the official Barclays product page (Feb 2021)."
+  "notes": "Historical Diamond Resorts World Mastercard record. Official-source audit 2026-10-20: the retained February 2021 issuer-page archive identifies the product but does not establish the precise 2021-03-10 withdrawal date or a card closure caused by a corporate acquisition. Remove that unsupported date and causal claim. The inherited discontinued status and financial terms (2x Diamond Resorts purchases, 1x elsewhere, $0 annual fee and 3% foreign transaction fee) remain historical metadata, not a current verification. Exact lifecycle, successor and old artwork are unknown."
 }

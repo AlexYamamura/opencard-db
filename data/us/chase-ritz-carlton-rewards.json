@@ -13,7 +13,6 @@
   "type": "credit",
   "segment": "personal",
   "status": "discontinued",
-  "discontinued_date": "2018-07-26",
   "annual_fee": {
     "amount": 395,
     "currency": "USD",
@@ -162,5 +161,5 @@
   "secondary_sources": [
     "https://www.doctorofcredit.com/spreadsheet-current-recent-credit-card-signup-bonuses-major-issuers/"
   ],
-  "notes": "Closed to new applicants July 26, 2018. Marriott merged Ritz Carlton Rewards into Bonvoy."
+  "notes": "Historical Ritz-Carlton Rewards record. Official-source audit 2026-10-20: the retained May 2016 issuer-page archive establishes historical product identity, not a precise 2018-07-26 application-withdrawal date. Remove that unsupported date and chronology. A loyalty-program consolidation does not establish credit-card withdrawal or conversion. The inherited discontinued status and historical financial terms remain unverified; current application eligibility, exact withdrawal date and successor are unknown."
 }

@@ -13,7 +13,6 @@
   "type": "credit",
   "segment": "personal",
   "status": "discontinued",
-  "discontinued_date": "2017-08-15",
   "annual_fee": {
     "amount": 95,
     "currency": "USD",
@@ -128,5 +127,5 @@
   "secondary_sources": [
     "https://www.doctorofcredit.com/spreadsheet-current-recent-credit-card-signup-bonuses-major-issuers/"
   ],
-  "notes": "Applications closed after AccorHotels acquisition. Cards converted to Chase Sapphire Preferred on August 15, 2017."
+  "notes": "Historical Fairmont Visa Signature record. Official-source audit 2026-10-20: the retained August 2016 issuer-page archive identifies the product but does not establish a 2017-08-15 card closure or conversion to Sapphire Preferred, or a closure caused by an acquisition. Remove that unsupported date and chronology. The inherited discontinued status and historical financial terms remain unverified; precise withdrawal/conversion dates and successor are unknown."
 }
